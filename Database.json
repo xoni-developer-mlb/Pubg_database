@@ -17,7 +17,8 @@
     "available_version": "Gobal/Korean",
     "script_name": "Test"
   },
-  {"file_url": "https://www.mediafire.com/file/abc123/sample.zip/file",
+  {
+    "file_url": "https://www.mediafire.com/file/abc123/sample.zip/file",
     "file_name": "testt.zip",
     "available_version": "Gobal/Korean",
     "script_name": "Test"
