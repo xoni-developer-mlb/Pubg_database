@@ -1,26 +1,8 @@
 [
   {
-    "file_url": "https://www.mediafire.com/file/zk9bes55z7zh3dk/Xoni_Tools_4.4.apk/file",
-    "file_name": "test.zip",
+    "file_url": "https://www.mediafire.com/file/rs5h9mx81nhspqb/pad.zip/file",
+    "file_name": "pad.zip",
     "available_version": "Gobal/Korean",
-    "script_name": "Amin Bot Script"
-  },
-  {
-    "file_url": "https://www.mediafire.com/file/abc123/sample.zip/file",
-    "file_name": "sample.zip",
-    "available_version": "Gobal/Korean",
-    "script_name": "Sample Script"
-  },
-  {
-    "file_url": "https://www.mediafire.com/file/abc123/sample.zip/file",
-    "file_name": "testt.zip",
-    "available_version": "Gobal/Korean",
-    "script_name": "Test"
-  },
-  {
-    "file_url": "https://www.mediafire.com/file/abc123/sample.zip/file",
-    "file_name": "testt.zip",
-    "available_version": "Gobal/Korean",
-    "script_name": "Test"
+    "script_name": "I pad view Script"
   }
 ]
