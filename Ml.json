@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Damage Configuration",
+    "t1": "Extra Damage",
+    "t2": "Enemy Lag",
+    "t3": "Boost Damage",
+    "t4": "Boost Damage V2",
+    "inj1": "y",
+    "inj2": "y",
+    "inj3": "y",
+    "inj4": "n",
+    "switch1": "n",
+    "switch2": "n",
+    "switch3": "n",
+    "switch4": "y"
+  }
+]
